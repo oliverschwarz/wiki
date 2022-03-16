@@ -32,8 +32,8 @@
 ```mermaid
 Initial Check Process
 	A[First Meeting] --> B{Task management available?};
-	B -- Yes --> C{Start understanding customers};
-	B -- No --> D{Introduce KANBAN for most valuable process};
+	B -- Yes --> C[Start understanding customers];
+	B -- No --> D[Introduce KANBAN for most valuable process];
 	C ----> E[Start with Value Proposition];
 	D ----> E[Start with Value Proposition];
 ```
