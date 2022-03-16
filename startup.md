@@ -30,7 +30,7 @@
 ## Mermaid test
 
 ```mermaid
-Initial Check Process
+flowchart TD;
 	A[First Meeting] --> B{Task management available?};
 	B -- Yes --> C[Start understanding customers];
 	B -- No --> D[Introduce KANBAN for most valuable process];
