@@ -6,7 +6,9 @@
 	* FMC vs. business pricing
 	* Customer Problem
 	* Problem Solution
-	* Product Market 
+	* Product Market
+	* Product Roadmap
+	* Product Experiments
 * Let work flow (don't sprint)
 	* Make it visible
 	* Measure it
@@ -19,6 +21,7 @@
 	* Attract
 * Understand your business
 	* Business Model Canvas
-	* How to spend the time
-	* 
+	* How to spend the time (you only have 100%)
+	* How to keep track of it all?
 * Learn
+	* Write about it
