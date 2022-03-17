@@ -32,5 +32,15 @@ So here is an attempt to (re-)structure my approach to company-building-on-the-f
 	* Business Model Canvas
 	* How to spend the time (you only have 100%)
 	* How to keep track of it all?
+* Vision & Strategy
+	* Clarity: Why you do what you do! (Be honest about it)
 * Learn
 	* Write about it
+* Bonus Learnings
+	* Cynefin
+	* Laws
+
+## Other sources
+
+* [The Basics](https://cutlefish.substack.com/p/tbm-1252-the-basics?s=w) of what you should have in line even in young organizations.
+* The [Work that makes the Work Work](https://youtu.be/Bv2Jx8z9xv8) on YouTube. A video on how you can incrementally become a better org.
