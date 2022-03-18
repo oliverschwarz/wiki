@@ -1,10 +1,39 @@
 # StartUp
 
-After interacting with a few startups, I learned that there is a significant difference in the support they need to larger-scale companies. They don't need OKRs. They don't need sophisticated cultural aspects or high-level strategies (yet). They don't need leadership philosophies, but down-to-earth practice. They need tools, methods, habit-building, focus and transparency. Very often, you do not need to _find their why_ with them - at least not in the first run. They are usually enthusiastic and eager to help their customers and are genuinely nice people. They have a pretty good idea about their customer and are close to them, rarely are afraid of getting in touch with them.
-
-So here is an attempt to (re-)structure my approach to company-building-on-the-fly.
+There is a significant difference between the support for startups and for larger-scale companies. Startups don't need OKRs. They don't need sophisticated cultural aspects or high-level strategies (yet). They don't need leadership philosophies and very often they don't need to learn about mindsets. They need tools, methods, habit-building, focus and transparency. Very often, you do not need to _find their why_ with them - at least not in the first run. They are usually enthusiastic and eager to help their customers and are genuinely nice people. They have a pretty good idea about their customer and are close to them, rarely are afraid of getting in touch with them.
 
 **Background:** You are a tiny startup with a good idea and enthusiastic to get going.
+
+The core element of working with startups is helping them to make progress and learn the basics of business on the way. Some already have a deep understanding of their motivation and the way how they want to do things, some have an obviously pretty successful idea, attracting customers and investors. Some are growing fast and struggle to keep up. However, I have rarely met a startup, that already excels in all areas, so your support work has to focus on identifying strength and weaknesses and then get alongside with them and then help to continuously improve.
+
+## 5 dimensions
+
+The work with startups can be structured into 5 dimensions. Each of them have the goal of:
+1. Create and keep focus on value creation
+1. Improve decision making
+1. Enable learning to constantly improve in digestable chunks
+
+### Let work flow
+
+Removing obstacles, letting work start to flow through the "engine" is often one of the first things to address. Of course, everybody can simply work. However, rarely the company knows how much work they can handle, what are their lead times, what can be done until when and - not to forget - what _should_ be done in the first place. Letting work start to flow and get measures in place to make progress (and learn from it) needs to be put into practice first.
+
+### Shape your product
+
+Understanding, building and developing the product will help the company to generate an attractive result for their customers. Therefore it is important to understand the nature of the product, the facts and key figures around it, its strength and weaknesses. And it is important to start planning around it, roadmapping the future, think about basics like pricing, distribution and find the sweet spot where that one product cuts the difference for the customer.
+
+### Know your customer
+
+Speaking of customer: Every company needs to understand its customers and how it is bringing value to them. Mainly most businesses are built around delivering a certain value to a customer, who then pays for it. Most often these businesses are in a competitive situation. There are practices, methods and principles which help improving the value creation towards the customers' needs.
+
+### Understand your business
+
+When you know how work flows, what is your product and who is your customer (and what does he need), you need to orchestrate everything into a business. You will need to understand how this all falls into place and becomes a unique organisation.
+
+### Vision & Strategy
+
+When you have proven your value to your customers and you have a balanced business, with focus, with ritualized learning, with a good overview on the work in your organization, you should start to work on your vision, derive the scope of the future and deploy a strategy to achieve your goals and work towards the vision. This should be lightweight, so that you can still focus on delivering value to your customers and getting your product out of the door.
+
+Every startup has a different maturity in these 5 areas. Some are already great in their product concepts, some already have a good connection to their customers. Most of them are inspired, engaging, motivated people, eager to get things started and totally convinced and moved by their innovative ideas. The first steps need to focus on balancing these 5 aspects of the company - next to all the other stuff they will need to do: budgeting & finance, taxes, get a place to work, package and produce products (or lead production). Most often they feel overwhelmed by their opportunities, obligations and their lifes, so it is important to help them gain focus and create a practice around organizing work.
 
 ## Start-Up topic areas
 
@@ -44,3 +73,7 @@ So here is an attempt to (re-)structure my approach to company-building-on-the-f
 
 * [The Basics](https://cutlefish.substack.com/p/tbm-1252-the-basics?s=w) of what you should have in line even in young organizations.
 * The [Work that makes the Work Work](https://youtu.be/Bv2Jx8z9xv8) on YouTube. A video on how you can incrementally become a better org.
+
+## Sources I should investigate
+
+* https://startupnetwork.eu
