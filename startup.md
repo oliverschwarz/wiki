@@ -21,6 +21,20 @@ Removing obstacles, letting work start to flow through the "engine" is often one
 
 Understanding, building and developing the product will help the company to generate an attractive result for their customers. Therefore it is important to understand the nature of the product, the facts and key figures around it, its strength and weaknesses. And it is important to start planning around it, roadmapping the future, think about basics like pricing, distribution and find the sweet spot where that one product cuts the difference for the customer.
 
+#### Pricing strategies
+
+* Value-based (high quality, tailored goods, craft)
+* Competitive (saturated markets, commodities, w/ pressure on FMC)
+* Price skimming (no competition, innovative, high demand, decreasing)
+* Cost-plus (FMC + margin, check hidden production costs)
+* Penetration/Disruption (undercut competition, then increase)
+* Economy (commodities, low loyalty, large sales volume, save on FMC)
+* Dynamic (hurts loyalty, pricing-on-demand, capitalise on demand, complex)
+
+More to pricing:
+* [7 main product pricing strategies](https://www.unleashedsoftware.com/blog/the-7-main-product-pricing-strategies-and-when-to-use-them)
+* [Pricing Strategy](https://blog.hubspot.com/sales/pricing-strategy)
+
 ### Know your customer
 
 Speaking of customer: Every company needs to understand its customers and how it is bringing value to them. Mainly most businesses are built around delivering a certain value to a customer, who then pays for it. Most often these businesses are in a competitive situation. There are practices, methods and principles which help improving the value creation towards the customers' needs.
@@ -77,3 +91,6 @@ Every startup has a different maturity in these 5 areas. Some are already great 
 ## Sources I should investigate
 
 * https://startupnetwork.eu
+* https://gruenderplattform.de/gruenderseminare
+* https://www.gruendungswerkstatt-nrw.de
+* https://www.fuer-gruender.de/
