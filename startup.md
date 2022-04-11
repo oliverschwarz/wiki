@@ -41,7 +41,7 @@ Speaking of customer: Every company needs to understand its customers and how it
 
 ### Understand your business
 
-When you know how work flows, what is your product and who is your customer (and what does he need), you need to orchestrate everything into a business. You will need to understand how this all falls into place and becomes a unique organisation.
+When you know how work flows, what your product is and who is your customer (and what does he need), you need to orchestrate everything into a business. And your business needs to embrace the market of your products. You will need to understand how this all falls into place and becomes a unique organisation. Inside your organization you will need to communicate, so that everybody understands the relationship between business, markets and your product(s), too. Especially in large organizations and specialized silos this is important.
 
 ### Vision & Strategy
 
@@ -75,6 +75,7 @@ Every startup has a different maturity in these 5 areas. Some are already great 
 	* Business Model Canvas
 	* How to spend the time (you only have 100%)
 	* How to keep track of it all?
+	* Communication
 * Vision & Strategy
 	* Clarity: Why you do what you do! (Be honest about it)
 * Learn
@@ -85,7 +86,13 @@ Every startup has a different maturity in these 5 areas. Some are already great 
 
 ## Other sources
 
+John Cutler has a series of posts on early product and business basics.
+
 * [The Basics](https://cutlefish.substack.com/p/tbm-1252-the-basics?s=w) of what you should have in line even in young organizations.
+* [Great One-Pagers](https://medium.com/@johnpcutler/great-one-pagers-592ebbaf80ec) can help you to early on describe your bets.
+* [Learning Backlogs](https://cutlefish.substack.com/p/tbm-753-learning-backlogs?s=w) will help you to enrich your product or service development with learning items.
+
+
 * The [Work that makes the Work Work](https://youtu.be/Bv2Jx8z9xv8) on YouTube. A video on how you can incrementally become a better org.
 
 ## Sources I should investigate
