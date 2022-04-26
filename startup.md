@@ -37,11 +37,29 @@ More to pricing:
 
 ### Know your customer
 
-Speaking of customer: Every company needs to understand its customers and how it is bringing value to them. Mainly most businesses are built around delivering a certain value to a customer, who then pays for it. Most often these businesses are in a competitive situation. There are practices, methods and principles which help improving the value creation towards the customers' needs.
+Speaking of customer: Every company needs to understand its customers and how it is bringing value to them. Mainly most businesses are built around delivering a certain value to a customer, who then pays for it. Most often these businesses are in a competitive situation. There are practices, methods and principles which help improving the value creation towards the customers' needs. The basic calculation is easy: I am buying your product, if it provides a certain value to me. But what are values? Here are some examples:
+
+* **Efficiency/Effectiveness** - I am able to do something more efficient or effective than before, which saves me time and effort
+* **Enablement/Gain** - I am able to do something, that I could not do before, giving me a new capability
+* **Entertainment/Muse** - The product brings fun and entertainment into my life
+* **Self-Esteem/Pride** - Owning your product raises my feeling of self-esteem and self-worth
+* **Pain relief** - Buying your product helps me get rid of a pain I have
+
+#### Identify customer segments
+
+To work towards the value creation and understanding of your customer, you can separate them in certain segments. Usually, each segments has a different set of values that they expect from your product. A segmentation example is B2B- vs. B2C customers or amateurs and professionals.
+
+#### Create your value proposition
+
+When you have an identified or assumed segmentation of your customers, you can start working on your value proposition. A simple way to get started is [Strategyzer's Value Proposition Canvas](https://www.strategyzer.com/canvas/value-proposition-canvas) - a free template that helps you structure the customers' needs, his/her pains and gains and your services and propositions. This should give you a good idea and reflection on whether you are really adressing your customers' needs.
+
+#### Map your customer's journey
+
+#### Important: Get feedback!
 
 ### Understand your business
 
-When you know how work flows, what your product is and who is your customer (and what does he need), you need to orchestrate everything into a business. And your business needs to embrace the market of your products. You will need to understand how this all falls into place and becomes a unique organisation. Inside your organization you will need to communicate, so that everybody understands the relationship between business, markets and your product(s), too. Especially in large organizations and specialized silos this is important.
+When you know how work flows, what your product is and who is your customer (and what he/she needs), you need to orchestrate everything into a business. And your business needs to embrace the market of your products. You will need to understand how this all falls into place and becomes a unique organisation. Inside your organization you will need to communicate, so that everybody understands the relationship between business, markets and your product(s), too. Especially in large organizations and specialized silos this is important.
 
 ### Vision & Strategy
 
@@ -64,6 +82,7 @@ Every startup has a different maturity in these 5 areas. Some are already great 
 	* Focus / WIP
 	* Iterate
 * Know your customer
+	* Customer segments
 	* Value proposition
 	* Customer journey
 	* Get feedback
