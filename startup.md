@@ -17,6 +17,13 @@ The work with startups can be structured into 5 dimensions. Each of them have th
 
 Removing obstacles, letting work start to flow through the "engine" is often one of the first things to address. Of course, everybody can simply work. However, rarely the company knows how much work they can handle, what are their lead times, what can be done until when and - not to forget - what _should_ be done in the first place. Letting work start to flow and get measures in place to make progress (and learn from it) needs to be put into practice first.
 
+#### Find value streams
+
+* Make your work visible
+* Find 1 or 2 value streams
+* Map them out (including their desired outcomes)
+* Measure it and use reflection to incrementally improve your process
+
 ### Shape your product
 
 Understanding, building and developing the product will help the company to generate an attractive result for their customers. Therefore it is important to understand the nature of the product, the facts and key figures around it, its strength and weaknesses. And it is important to start planning around it, roadmapping the future, think about basics like pricing, distribution and find the sweet spot where that one product cuts the difference for the customer.
