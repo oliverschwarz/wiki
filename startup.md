@@ -132,8 +132,6 @@ John Cutler has a series of posts on early product and business basics.
 * [The Basics](https://cutlefish.substack.com/p/tbm-1252-the-basics?s=w) of what you should have in line even in young organizations.
 * [Great One-Pagers](https://medium.com/@johnpcutler/great-one-pagers-592ebbaf80ec) can help you to early on describe your bets.
 * [Learning Backlogs](https://cutlefish.substack.com/p/tbm-753-learning-backlogs?s=w) will help you to enrich your product or service development with learning items.
-
-
 * The [Work that makes the Work Work](https://youtu.be/Bv2Jx8z9xv8) on YouTube. A video on how you can incrementally become a better org.
 
 ## Sources I should investigate
